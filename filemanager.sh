@@ -19,7 +19,7 @@ fi
 
 
 # Asking for the ruTorrent path folder
-read -p "Please type your ruTorrent path folder: " -e -i /var/www/rutorrent rutorrent_path
+read -p "Please type your ruTorrent path folder: " -e -i /var/www/html/rutorrent rutorrent_path
 
 
 # Installing dependencies
